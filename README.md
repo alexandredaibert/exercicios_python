@@ -1,4 +1,8 @@
 # exercicios_python
-Lista de Exercícios em Python resolvidos referente ao curso Desafio DevPro da [PythonPro](https://pythonpro.com.br/).
+Lista de Exercícios em Python resolvidos referente aos cursos: 
+- Fundamentos do Python / Desafio DevPro da [PythonPro](https://pythonpro.com.br/).
+- Trilha de ciência de dados DevPro
 
-Conteúdo: Bases de programação procedural e orientação a objetos.
+Conteúdo: 
+1. Bases de programação procedural e orientação a objetos.
+2. Numpy
